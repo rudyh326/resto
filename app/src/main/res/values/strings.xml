@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RestoCafeReservation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="profile">Profile</string>
+    <string name="reservations">Reservations</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="three_points">...</string>
+</resources>
